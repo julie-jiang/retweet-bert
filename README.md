@@ -1,7 +1,7 @@
 # retweet-bert
 This repo contains the source code for the Retweet-Bert [paper](https://arxiv.org/abs/2207.08349). If you find it useful, please cite our (to be) published paper:
 
-Julie Jiang, Xiang Ren, and Emilio Ferrara. Retweet-BERT: Characterizing Echo Chambers by Leveraging Language Features and Information Diffusion in Social Media. The 17th International AAAI Conference on Web and Social Media (ICWSM ’23). 
+Julie Jiang, Xiang Ren, and Emilio Ferrara. Retweet-BERT: Characterizing Echo Chambers by Leveraging Language Features and Information Diffusion in Social Media. The 17th International AAAI Conference on Web and Social Media (ICWSM ’23). [Preprint](https://arxiv.org/abs/2207.08349)
 
 ### Requirements
 - python 3
