@@ -10,7 +10,7 @@ Julie Jiang, Xiang Ren, and Emilio Ferrara. Retweet-BERT: Characterizing Echo Ch
 - Pytorch 1.7.0
 
 ### Data
-Due to Twitter data sharing policy, we are unable to share the dataset used in this paper except for the Tweet IDs. You will have to build the dataset by collecting the data themselves. The data used in this paper can be found [here](https://www.notion.so/Personal-66543fb1b1094fc28447d84e489383b0).
+Due to Twitter data sharing policy, we are unable to share the dataset used in this paper except for the Tweet IDs. You will have to build the dataset by collecting the data themselves. The data used in this paper can be found [here](https://github.com/echen102/COVID-19-TweetIDs) and [here](https://github.com/echen102/us-pres-elections-2020).
 
 The data should come in two files:
 - A CSV file with two columns: `user` and `profile` where each row is the profile description of a user. There should be no duplicates. The first row should be the column headers.
